@@ -26,21 +26,25 @@
     ],
     "projects": [
       {
+        "id": 1,
         "name": "Serasa Experian Test",
         "techs": ["React", "Typescript", "Sass", "HTML", "CSS"],
         "src": "https://github.com/paulohfsantos/serasa-test-typescript"
       },
       {
+        "id": 2,
         "name": "Team Generator",
         "techs": ["Angular", "Typescript", "Sass", "HTML", "CSS"],
         "src": "https://github.com/paulohfsantos/angular-team-gen"
       },
       {
+        "id": 3,
         "name": "Leads2b Test",
         "techs": ["Vue", "Nuxt", "Javascript", "Vuex", "Sass", "HTML", "CSS"],
         "src": "https://github.com/paulohfsantos/leads2b-test"
       },
       {
+        "id": 4,
         "name": "Auth JWT",
         "techs": ["Node", "Express", "Sequelize", "PostgreSQL", "Typescript"],
         "src": "https://github.com/paulohfsantos/auth-jwt-ts"

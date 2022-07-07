@@ -1,5 +1,6 @@
 import React from 'react'
 import Container from '../../components/Container'
+import Main from '../../components/Main'
 import { useMyselfData } from '../../hooks/useMyselfData'
 import './styles.scss'
 
@@ -9,7 +10,7 @@ const Home: React.FC = () => {
   return (
     <section className="home">
       <Container>
-        <h1>{me.name}</h1>
+        <Main />
       </Container>
     </section>
   )

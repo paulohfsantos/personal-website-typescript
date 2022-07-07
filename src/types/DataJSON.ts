@@ -4,7 +4,8 @@ export interface IDataJSON {
     email: string;
     about: string;
     links: ILinks[];
-    experience: IExperience[]
+    experience: IExperience[];
+    projects: IProject[];
   }
 }
 
@@ -20,4 +21,11 @@ export interface IExperience {
   description: string;
   city: string;
   country: string;
+}
+
+export interface IProject {
+  id: string;
+  name: string;
+  tech: string[];
+  src: string;
 }
