@@ -32,7 +32,7 @@ const Project: React.FC = () => {
   return (
     <section className="project">
       <Container>
-        <h3>Project: {param.id}</h3>
+        <h3>Project {param.id}</h3>
 
         {projectReturn()}
       </Container>
