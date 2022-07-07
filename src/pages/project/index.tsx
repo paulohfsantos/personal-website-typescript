@@ -15,7 +15,7 @@ const Project: React.FC = () => {
 
   const projectReturn = () => {
     for (let i = 0; i < me.projects.length; i++) {
-      if (param.id == project[i]) {
+      if (Number(param.id) == project[i]) {
         return (
           <>
             <h3>{me.projects[i].name}</h3>

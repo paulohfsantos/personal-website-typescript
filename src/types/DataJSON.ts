@@ -24,8 +24,8 @@ export interface IExperience {
 }
 
 export interface IProject {
-  id: string;
+  id: number;
   name: string;
-  tech: string[];
+  techs: string[];
   src: string;
 }
