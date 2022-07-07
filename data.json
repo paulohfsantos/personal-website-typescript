@@ -23,6 +23,28 @@
         "end": "Feb 2021",
         "description": "ddd"
       }
+    ],
+    "projects": [
+      {
+        "name": "Serasa Experian Test",
+        "techs": ["React", "Typescript", "Sass", "HTML", "CSS"],
+        "src": "https://github.com/paulohfsantos/serasa-test-typescript"
+      },
+      {
+        "name": "Team Generator",
+        "techs": ["Angular", "Typescript", "Sass", "HTML", "CSS"],
+        "src": "https://github.com/paulohfsantos/angular-team-gen"
+      },
+      {
+        "name": "Leads2b Test",
+        "techs": ["Vue", "Nuxt", "Javascript", "Vuex", "Sass", "HTML", "CSS"],
+        "src": "https://github.com/paulohfsantos/leads2b-test"
+      },
+      {
+        "name": "Auth JWT",
+        "techs": ["Node", "Express", "Sequelize", "PostgreSQL", "Typescript"],
+        "src": "https://github.com/paulohfsantos/auth-jwt-ts"
+      }
     ]
   }
 }

@@ -1,8 +1,21 @@
 import React from 'react'
+import Container from '../../components/Container'
+import { useMyselfData } from '../../hooks/useMyselfData'
+import './styles.scss'
 
 const Projects: React.FC = () => {
+  const { me } = useMyselfData()
+
   return (
-    <div>Projects</div>
+    <section className="projects">
+      <Container>
+        <h3>Projects</h3>
+
+        <div className="block">
+          projects
+        </div>
+      </Container>
+    </section>
   )
 }
 
