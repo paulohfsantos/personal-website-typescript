@@ -3,6 +3,16 @@
     "name": "Paulo H. F. Santos ",
     "email": "paulohfsantos@gmail.com",
     "about": "Developer with 3 years experience seeking for an oportunity as frontend developer.",
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/paulohfsantos"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/paulohfsantos/"
+      }
+    ],
     "experience": [
       {
         "company": "Dohms Web",
