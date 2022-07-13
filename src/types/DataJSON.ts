@@ -4,11 +4,11 @@ export interface IDataJSON {
     email: string;
     about: string;
     links: ILinks[];
+    skills: string[];
     experience: IExperience[];
     projects: IProject[];
   }
 }
-
 export interface ILinks {
   name: string;
   url: string;
@@ -22,7 +22,6 @@ export interface IExperience {
   city: string;
   country: string;
 }
-
 export interface IProject {
   id: number;
   name: string;

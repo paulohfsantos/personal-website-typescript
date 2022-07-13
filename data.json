@@ -13,6 +13,16 @@
         "url": "https://www.linkedin.com/in/paulohfsantos/"
       }
     ],
+    "skills": [
+      "HTML5",
+      "Sass",
+      "JavaScript",
+      "Typescript",
+      "ReactJS",
+      "VueJS",
+      "NodeJS",
+      "PostgreSQL"
+    ],
     "experience": [
       {
         "company": "Dohms Web",
