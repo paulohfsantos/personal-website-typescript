@@ -1,8 +1,24 @@
 @mixin container {
+  // default xl
   width: 100%;
-  max-width: 1000px;
+  max-width: 1140px;
   padding: 0 10px;
   margin: 0 auto;
+}
+
+@mixin container-lg {
+  // default lg
+  max-width: 992px;
+}
+
+@mixin container-md {
+  // default md
+  max-width: 768px;
+}
+
+@mixin container-sm {
+  // default sm
+  max-width: 576px;
 }
 
 @mixin flex-between-align-center {

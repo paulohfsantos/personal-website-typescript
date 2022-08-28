@@ -45,7 +45,7 @@
         "id": 2,
         "name": "Team Generator",
         "techs": ["Angular", "Typescript", "Sass", "HTML", "CSS"],
-        "src": "https://github.com/paulohfsantos/angular-team-gen"
+        "src": "angular-team-gen.vercel.app"
       },
       {
         "id": 3,

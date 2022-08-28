@@ -50,13 +50,6 @@ const Main: React.FC = () => {
               <h3>Welcome! I'm {firstName[0]}</h3>
             </Container>
           </div>
-          
-          {/* <div className="description">
-            <Container>
-              <h4>About</h4>
-              <p>{me.about}</p>
-            </Container>
-          </div> */}
 
           <div className="skills">
             <Container>
